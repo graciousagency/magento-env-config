@@ -1,5 +1,5 @@
 {
-    "name": "gracious/config-envvars",
+    "name": "gracious/magento-env-config",
     "description": "Use environment variables in Magento 1 local.xml, uses getenv to get the values",
     "type": "magento-module",
     "homepage": "https://github.com/gracious/magento-config-envvars",
