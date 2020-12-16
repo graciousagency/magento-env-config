@@ -5,6 +5,6 @@
     "homepage": "https://github.com/gracious/magento-config-envvars",
     "license": "MIT",
     "require": {
-        "magento-hackathon/magento-composer-installer": "3.*"
+        "magento-hackathon/magento-composer-installer": "4.*"
     }
 }
